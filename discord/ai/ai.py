@@ -3,7 +3,7 @@ import json
 from transformers import AutoModelForSequenceClassification, pipeline
 
 # Your Discord bot token (Replace 'YOUR_BOT_TOKEN' with your actual bot token)
-BOT_TOKEN = 'MTEzNzExMTA4NTY0NDc5MTg5MA.G4NhT1.fd-gXAcDTUzWV5qcuVx49xINNhMkPHFoezR7dM'
+BOT_TOKEN = 'YOUR_DISCORD_BOT_TOKEN'
 
 # Your Discord bot token (Replace 'YOUR_BOT_TOKEN' with your actual bot token)
 
