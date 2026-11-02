@@ -9,8 +9,8 @@ const HomePage = () => {
   };
 
   return (
-    <ImageBackground source={require('./assets/background.png')} style={styles.backgroundImage}>
-        <Image source={require('./assets/logonotext.png')} style={styles.image}/> 
+    <ImageBackground source={require('../../assets/background.png')} style={styles.backgroundImage}>
+        <Image source={require('../../assets/logonotext.png')} style={styles.image}/> 
 
       <View style={styles.container}>
         <Text style={styles.appTitle}>MindWell</Text>

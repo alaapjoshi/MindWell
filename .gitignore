@@ -33,3 +33,11 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

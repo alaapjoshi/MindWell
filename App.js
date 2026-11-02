@@ -3,11 +3,11 @@ import { Text, View } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createMaterialBottomTabNavigator } from '@react-navigation/material-bottom-tabs';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
-import Ai2 from './chat';
-import moodtracknavigate from './moodTrack/moodnavigate';
-import meditate from './meditate';
-import HomePage from './Home';
-import CapabilitiesPage from './toxic';
+import Ai2 from './src/screens/Chat';
+import moodtracknavigate from './src/moodTrack/moodnavigate';
+import meditate from './src/screens/Meditate';
+import HomePage from './src/screens/Home';
+import CapabilitiesPage from './src/screens/Toxic';
 
 const Tab = createMaterialBottomTabNavigator();
 

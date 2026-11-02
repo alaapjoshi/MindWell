@@ -1,1 +1,0 @@
-# Mindwell: Nurturing Minds, Empowering Lives

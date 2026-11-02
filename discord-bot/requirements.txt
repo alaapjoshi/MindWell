@@ -1,0 +1,4 @@
+# Python packages used by the Discord bot (ai.py and scripts/)
+discord.py
+transformers
+torch  # backend that transformers pipelines run on

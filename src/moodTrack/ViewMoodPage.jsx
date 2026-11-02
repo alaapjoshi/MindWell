@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyClaOFtD_U5Cka4eRWs_F1n2oo2QBAzDDE",
-  authDomain: "mindwell-b80a7.firebaseapp.com",
-  projectId: "mindwell-b80a7",
-  storageBucket: "mindwell-b80a7.appspot.com",
-  messagingSenderId: "368344160806",
-  appId: "1:368344160806:web:0c0071e4a366b26e3824e7"
+  apiKey: "YOUR_FIREBASE_APIKEY",
+  authDomain: "YOUR_FIREBASE_AUTHDOMAIN",
+  projectId: "YOUR_FIREBASE_PROJECTID",
+  storageBucket: "YOUR_FIREBASE_STORAGEBUCKET",
+  messagingSenderId: "YOUR_FIREBASE_MESSAGINGSENDERID",
+  appId: "YOUR_FIREBASE_APPID"
 };
 
 // Initialize Firebase
